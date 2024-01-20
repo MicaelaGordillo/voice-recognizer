@@ -1,16 +1,16 @@
-# prueba
+# VoiceRecognizer
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+VoiceRecognizer es una aplicación simple desarrollada en Flutter que te permite convertir tu voz en texto de forma instantánea. Con esta aplicación, puedes utilizar el micrófono de tu dispositivo para hablar, y la aplicación convertirá automáticamente tus palabras en texto. Además, se incluye una funcionalidad adicional que te permite escuchar lo que has dicho.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- **Reconocimiento de Voz:** Habla directamente al micrófono y observa cómo tu voz se convierte en texto en tiempo real.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Reproducción de Texto:** Después de la conversión, tienes la opción de escuchar lo que has dicho con solo tocar un botón.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img width="30%" src="https://github.com/MicaelaGordillo/VoiceRecognizer/assets/88464906/1f5092c7-d559-4d31-a990-364ee0e9f708"/>
+</p>
+
